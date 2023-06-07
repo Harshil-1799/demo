@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 hello 
 gbw
+=======
+<<<<<<< Updated upstream
+my file
+second line
+third line
+=======
+hello 
+world
+
+
+>>>>>>> Stashed changes
+>>>>>>> 2322781 (new)
