@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 my file
 second line
 third line
-=======
-hello 
-world
-
-
->>>>>>> Stashed changes
-=======
-hello 
->>>>>>> 38733ac (Update myfile.txt)
+=============
