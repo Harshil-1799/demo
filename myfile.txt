@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 my file
 second line
+=======
+>>>>>>> parent of 98cd5ab (second commit)
