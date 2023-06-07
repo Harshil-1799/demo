@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
 my file
 second line
 third line
+=======
+hello 
+world
+
+
+>>>>>>> Stashed changes
