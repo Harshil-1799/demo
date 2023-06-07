@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 my file
 second line
@@ -8,3 +9,6 @@ world
 
 
 >>>>>>> Stashed changes
+=======
+hello 
+>>>>>>> 38733ac (Update myfile.txt)
