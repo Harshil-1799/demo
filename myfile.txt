@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 my file
 second line
 third line
+=======
+hello 
+gbw
+>>>>>>> parent of 7c3b5e4 (new1)
